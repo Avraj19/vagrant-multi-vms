@@ -1,4 +1,4 @@
-# Prerequisite test 5
+# Prerequisite
 1. Virtual box https://www.virtualbox.org/
 - This program used v6.1
 2. Installing Vagrant https://www.vagrantup.com/
@@ -26,5 +26,5 @@ sudo npm start
 ```
 6. Check if running
 - Go to browser
-- type in http://192.168.10.100:3000/posts
-You should see some posts :)
+- Type in --> http://192.168.10.100:3000/fibonacci/10
+You should see some Fibonacci :)
