@@ -19,3 +19,9 @@ sudo apt-get install nodejs -y
 
 # install pm2
 sudo npm install pm2 -g
+
+echo 'export DB_HOST=mongodb:/192.168.10.150:27017/posts' >> ~/.bashrc
+
+# cd /home/ubuntu/app
+# sudo npm install
+# sudo npm start
