@@ -21,6 +21,7 @@ cd /home/ubuntu/app
 ```
 5. Start npm
 ```bash
+npm install
 npm start
 ```
 6. Check if running

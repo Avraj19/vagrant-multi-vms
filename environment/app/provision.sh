@@ -22,6 +22,8 @@ sudo npm install pm2 -g
 
 echo 'export DB_HOST=mongodb:/192.168.10.150:27017/posts' >> ~/.bashrc
 
+sudo service nginx restart
+
 # cd /home/ubuntu/app
 # sudo npm install
 # sudo npm start
