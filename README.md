@@ -21,8 +21,8 @@ cd /home/ubuntu/app
 ```
 5. Start npm
 ```bash
-npm install
-npm start
+sudo npm install
+sudo npm start
 ```
 6. Check if running
 - Go to browser
