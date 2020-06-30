@@ -1,6 +1,6 @@
 # Prerequisite
 1. Virtual box https://www.virtualbox.org/
--This program used v6.1
+- This program used v6.1
 2. Installing Vagrant https://www.vagrantup.com/
 - This program used v2.2.9
 
